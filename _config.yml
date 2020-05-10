@@ -5,9 +5,9 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: LOFFER
+name: Tagetes
 # 描述/签名
-description: LOFFER Blog
+description: Tagetes's secret
 
 
 #
@@ -15,7 +15,7 @@ description: LOFFER Blog
 #
 
 # 主密码 : 请修改成任意**无规则**的字母+数字组合,256字符号以内
-AES_password: TeagesIsSoSmart111111111
+AES_password: hgnb2dasy0darf0rwrg1rewq1qrnd2wefd0dawc2awry
 
 # 加密文档是否需要先解析Markdown
 mdUncode: true #需要填true,不需要填false
@@ -29,10 +29,10 @@ noSearch: true
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: /main-source/icon.png
+avatar: /main-source/Teages.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: /main-source/icon.png
+favicon: /main-source/Teages.png
 
 
 # 菜单中的按钮
@@ -59,21 +59,22 @@ footer-links:
   weibo: #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: tst@tst.xyz 
+  email: Teages@teages.xyz 
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: tst #https://github.com/<>
+  github: Teages #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
-  rss: rss #随便填点啥RSS就能用了
+  rss: Teages #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
-  twitter: tst # https://www.twitter.com/<your_twitter_username> 
+  twitter: Teages_L # https://www.twitter.com/<your_twitter_username> 
   youtube: # channel/<your_long_string> or user/<user-name>
+  bilibili: 37429890 # https://space.bilibili.com/<user-uid>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 - 2020
+footer-text: Copyright © 2019 - 2020
 
 # 评论，注意，请不要同时添加多种不同的评论区
 
@@ -91,7 +92,7 @@ gitalk:
 google_analytics: 
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）(例如 https://github.io)
-url: 
+url: https://secret.teages.xyz
 
 # 是否重定向上面的域名 (高级功能,不清楚请不要乱开启)
 replyTo: false
@@ -99,8 +100,8 @@ replyTo: false
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
-# 那么就写成 "repository-name"
-baseurl: /Secret-loffer-blog
+# 那么就写成 "/repository-name"
+baseurl: 
 
 #特殊设置
 grey_all: false  # 全站变灰
